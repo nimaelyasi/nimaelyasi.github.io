@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : 
 title_separator          : "-"
-name                     : &name 
+name                     :
 description              : &description ""
 url                      : https://nimaelyasi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
