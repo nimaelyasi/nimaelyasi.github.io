@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nima Elyasi HomePage"
+title                    : 
 title_separator          : "-"
 name                     : &name "Nima Elyasi"
 description              : &description ""
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nimaelyasi/"
+  linkedin         : "nimaelyasi"
   orcid            : 
   pinterest        :
   soundcloud       :
