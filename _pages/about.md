@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 # Employment:
 
 * Performance Architect Intern, Memory Solutions Lab, Samsung Semiconductor Inc., (05/2017~08/2017)
