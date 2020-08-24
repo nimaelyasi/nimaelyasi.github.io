@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Nima Elyasi
+title                    : 
 title_separator          : "-"
-name                     : &name
+name                     : &name 
 description              : &description ""
 url                      : https://nimaelyasi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nima Elyasi"
+  name             : "Systems and Performance Architect"
   avatar           : "profile.png"
-  bio              : Systems and Performance Architect
+  bio              : 
   location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ONJovogAAAAJ&hl=en&oi=ao"
