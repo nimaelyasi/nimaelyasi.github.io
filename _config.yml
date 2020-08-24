@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nima Elyasi"
   avatar           : "profile.png"
-  bio              : ""
-  location         : ""
+  bio              : Systems and Performance Architect
+  location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ONJovogAAAAJ&hl=en&oi=ao"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : nima.elyasi@gmail.com
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nimaelyasi"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : ""
+  linkedin         : "https://www.linkedin.com/in/nimaelyasi/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
