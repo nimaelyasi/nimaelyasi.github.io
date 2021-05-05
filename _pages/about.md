@@ -12,10 +12,11 @@ redirect_from:
 
 ## Employment:
 
-* Performance Architect Intern, Memory Solutions Lab, Samsung Semiconductor Inc., (05/2017~08/2017)
-* Systems Architect Intern, Memory Solutions Lab, Samsung Semiconductor Inc., (05/2018~08/2018)
-* Systems Architect, Memory Solutions Lab, Samsung Semiconductor Inc., San Jose, CA (03/2019~)
 
+* Staff Systems Architect, Memory Solutions Lab, Samsung Semiconductor Inc., San Jose, CA (03/2021~)
+* Senior Systems Architect, Memory Solutions Lab, Samsung Semiconductor Inc., San Jose, CA (03/2019~02/2021)
+* Systems Architect Intern, Memory Solutions Lab, Samsung Semiconductor Inc., (05/2018~08/2018)
+* Performance Architect Intern, Memory Solutions Lab, Samsung Semiconductor Inc., (05/2017~08/2017)
 
 ## Education:
 
